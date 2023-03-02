@@ -1,0 +1,13 @@
+C:\Users\thaina.ssalmeida\source\repos\EmpresaTI107\TJ-Sushi\bin\Debug\TJ-Sushi.exe.config
+C:\Users\thaina.ssalmeida\source\repos\EmpresaTI107\TJ-Sushi\bin\Debug\TJ-Sushi.exe
+C:\Users\thaina.ssalmeida\source\repos\EmpresaTI107\TJ-Sushi\bin\Debug\TJ-Sushi.pdb
+C:\Users\thaina.ssalmeida\source\repos\EmpresaTI107\TJ-Sushi\obj\Debug\TJ-Sushi.csproj.AssemblyReference.cache
+C:\Users\thaina.ssalmeida\source\repos\EmpresaTI107\TJ-Sushi\obj\Debug\TJ_Sushi.Form1.resources
+C:\Users\thaina.ssalmeida\source\repos\EmpresaTI107\TJ-Sushi\obj\Debug\TJ_Sushi.frmlogin.resources
+C:\Users\thaina.ssalmeida\source\repos\EmpresaTI107\TJ-Sushi\obj\Debug\TJ_Sushi.frmMenuPrincipal.resources
+C:\Users\thaina.ssalmeida\source\repos\EmpresaTI107\TJ-Sushi\obj\Debug\TJ_Sushi.Properties.Resources.resources
+C:\Users\thaina.ssalmeida\source\repos\EmpresaTI107\TJ-Sushi\obj\Debug\TJ-Sushi.csproj.GenerateResource.cache
+C:\Users\thaina.ssalmeida\source\repos\EmpresaTI107\TJ-Sushi\obj\Debug\TJ-Sushi.csproj.CoreCompileInputs.cache
+C:\Users\thaina.ssalmeida\source\repos\EmpresaTI107\TJ-Sushi\obj\Debug\TJ-Sushi.exe
+C:\Users\thaina.ssalmeida\source\repos\EmpresaTI107\TJ-Sushi\obj\Debug\TJ-Sushi.pdb
+C:\Users\thaina.ssalmeida\source\repos\EmpresaTI107\TJ-Sushi\obj\Debug\TJ_Sushi.frmcomponentes.resources
